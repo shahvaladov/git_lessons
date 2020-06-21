@@ -2,11 +2,9 @@
     margin: 0;
 }
 section {
-    height: 50px;
+    height: 100%;
     text-align: center;
     background-color: black;
     line-height: 40px;
-}
-h1 {
     color: white;
 }
